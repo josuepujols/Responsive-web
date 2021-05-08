@@ -1,0 +1,341 @@
+@media (max-width:1252px) {
+    .wrap {
+        width: 90%;
+        margin: 0px auto;
+    }
+
+    #banner h1 {
+        font-size: 25px;
+        text-align: center;
+        margin: 33px auto;
+    }
+
+    .card {
+         width: 16%;
+         margin: 2%;
+    }
+
+    .card p {
+        display: block;
+        width: 90%;
+        margin: 0px auto;
+        text-align: center;
+    }
+
+    .card:last-child {
+        margin-right: 0%;
+    }
+
+    #articulos {
+        width: 60%;
+    }
+
+    #articulos article {
+        width: 97%;
+    }
+
+    #footer .wrap > div {
+        width: 24%;
+    }
+
+    #footer #navegadores img {
+        width: 14%;
+    }
+
+    #footer h5 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width:956px) {
+    #footer .wrap > div {
+        width: 22%;
+    }
+
+    #footer h5 {
+        font-size: 15px;
+    }
+
+    #banner h1 {
+        width: 80%;
+    }
+}
+
+@media (max-width:946px) {
+
+    #banner h1 {
+        width: 75%;
+    }
+
+    #articulos {
+        width: 50%;
+    }
+
+    #articulos .datos {
+        width: 58%;
+        padding: 1px;
+        font-size: 12px;
+    }
+
+    #articulos article h4 a {
+        display: block;
+        margin-top: -4px;
+        font-size: 15px
+    }
+
+    #articulos article p {
+        font-size: 13px;
+    }
+
+    .card .categoria {
+        font-size: 18px;
+    }
+}
+
+
+@media (max-width:804px) {
+    #footer .wrap > div {
+        margin: 25px;
+    }
+}
+
+
+@media (max-width:758px) {
+    #barra_lateral {
+        width: 36%;
+    }
+
+    #loggin input[type="submit"], 
+    #loggin input[type="reset"], 
+    #loggin input[type="button"] {
+        width: 35%;
+    }
+
+    #barra_lateral input[type="text"] {
+        width: 80%;
+    }
+}
+
+
+@media (max-width:726px) {
+    #menu ul li a {
+        font-size: 15px;
+    }
+
+
+    #barra_lateral h3 {
+        font-size: 20px;
+    }
+
+    #articulos h2 {
+        font-size: 20px;
+    }
+
+    .card .icon {
+        font-size: 30px;
+    }
+
+    #logo {
+        height: 40px;
+    }
+
+    .card:hover .icon {
+        font-size: 40px;
+    }
+
+    #footer #informacion #html {
+        width: 200px;
+    }
+
+    #footer #navegadores img{
+        width: 13%;
+    }
+}
+
+@media (max-width:632px) {
+    #logo {
+        width: 30%;
+    }
+
+    #logo #gear {
+        font-size: 13px;
+    }
+
+    #logo h3 {
+        font-size: 22px;
+    }
+
+    .card .categoria {
+        font-size: 14px;
+    }
+
+    .card .descripcion {
+        font-size: 12px;
+    }
+
+    #barra_lateral {
+        width: 210px;
+    }
+
+    #logo {
+        margin-left: -23px;
+    }   
+
+    #footer h5 {
+        font-size: 10px;
+    }
+
+    #footer .wrap > div {
+        margin: 10px;
+    }
+
+    #footer ul li:hover a {
+        padding-left: 0px;
+    }
+
+    #footer ul li a {
+        font-size: 10px;
+    }
+}
+
+@media (max-width:586px) {
+
+    #header {
+        height: 53px;
+    }
+
+
+    #menu {
+        height: 52px;
+        margin-left: 25px;
+    }
+
+    #logo {
+        width: 140px;
+    }
+
+    #logo h3 {
+        font-size: 15px;
+    }   
+
+    #footer #informacion #html {
+        width: 100px;
+    }
+
+    #footer #navegadores img{
+        width: 10%;
+    }
+}
+
+
+@media (max-width:554px) {
+    .card {
+        width: 27%; 
+    }
+
+    .card .categoria {
+        font-size: 11px;
+    }
+
+    .card .descripcion {
+        font-size: 9px;
+    }
+
+    .card:hover .icon {
+        font-size: 25px;
+    }
+
+    .card .icon {
+        font-size: 15px;
+    }
+
+    #logo {
+        width: ;
+    }
+
+    #logo #gear {
+        margin-left: 10px;
+    }
+
+    #logo h3 {
+        display: block;
+        position: absolute;
+        margin-left: 25px;
+    }
+}
+
+
+@media (max-width:556px) {
+    #barra_lateral {
+        width: 100%;
+    }
+
+    #articulos {
+        width: 100%;
+    }
+
+    #loggin #user, #loggin #password {
+        margin-left: 5%;
+    }
+
+    #loggin #password {
+        margin-left: 5.5%;
+    }
+
+    #barra_lateral {
+        padding-left: 15%;
+    }
+}
+
+@media (max-width:548px) {
+    #menu ul li {
+        display: block;
+        float: left;
+        margin-right: -10px;
+    }
+
+    #logo #gear {
+        font-size: 9px;
+    }
+
+    #banner h1 {
+        font-size: 13px;
+    }
+
+    #logo {
+        width: 60px;
+    }
+   
+}
+
+@media (max-width:400px) {
+    #menu ul li a {
+        font-size: 10px;
+    }
+    #footer #autor {
+        font-size: 10px;
+    }  
+    
+    #blog a {
+        font-size: 25px;
+    }
+}
+
+@media (max-width:300px) {
+    #footer ul li a {
+        font-size: 6px;
+    }
+}
+
+
+@media (max-width:254px) {
+    #menu ul li a {
+        font-size: 8px;
+        margin-left: 22px;
+    }
+
+    #footer h5 {
+        font-size: 4px;
+    }
+
+}
